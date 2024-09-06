@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ziazehri
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning java and Front end web dev
+<br>
 - 💞️ I’m looking to collaborate on programming competetion to improve my coding skill.
 - 📫 How to reach me ...
 
