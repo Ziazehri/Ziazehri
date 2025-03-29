@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Ziazehri
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning java and Front end web dev
-<br>
-- 💞️ I’m looking to collaborate on programming competetion to improve my coding skill.
-- 📫 How to reach me ...
+# 👋 Hi, I'm Zia Zehri  
+### 🚀 Flutter Developer | Frontend Enthusiast  
 
-<!---
-Ziazehri/Ziazehri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Passionate about building cross-platform mobile apps using **Flutter**.  
+- 🌱 Currently enhancing my skills in **Java (OOP Based)** and **Frontend Web Development**.  
+- 💡 Experienced in **Dart, Firebase, REST APIs, and UI/UX design**.  
+- 💞 Looking to collaborate on **Flutter projects and programming competitions**.  
+- 📫 Reach me at: ziazehri798@gmail.com  
+
+💻 Check out my projects below!  
+
+---
